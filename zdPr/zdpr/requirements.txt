@@ -1,0 +1,4 @@
+Click==7.0
+matplotlib==3.2.1
+numpy==1.17.0
+
